@@ -5,7 +5,7 @@
 3. Add `@axe-core/react` for accessibility
 
 ## Expectations
-- If there's areas of uncertainty or question please use your own knowledge and experiences to fill in the gaps.
+- If there's areas of uncertainty or question please use your own knowledge and experiences to fill in the gaps
 - The task should be completed in it's entirety
 - Please return the test with a production URL and a link to the git repo
 - Tests are a nice to have but are not a requirement
