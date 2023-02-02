@@ -13,7 +13,7 @@
 ## API Querying & pagination
 4. Retrieve a list of `100` popular movies from [The Movie DB](https://www.themoviedb.org/) using their [API](https://developers.themoviedb.org/3/getting-started/introduction)
 5. The list of popular movies should be batched in groups of `20`
-6. On page load return the first `20` results as a `5` column grid that includes the movie `cover art`, `title`, `release date` and `rating`
+6. On page load return the first `20` results as a `5` column grid (`2` columns on mobile) that includes the movie `cover art`, `title`, `release date` and `rating`
 7. Add a load more button that `onClick` returns the next `20` results until the list is exhausted. The button should be hidden when the end of the list has been reached
 
 ![Popular-Movies-—-The-Movie-Database-TMDB-](https://user-images.githubusercontent.com/5527769/216195797-a0dd80b4-8538-492e-8907-62b32b7f5712.png)
