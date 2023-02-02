@@ -12,11 +12,14 @@
 
 ![Popular-Movies-—-The-Movie-Database-TMDB-](https://user-images.githubusercontent.com/5527769/216195797-a0dd80b4-8538-492e-8907-62b32b7f5712.png)
 
-## Accessiblity
+## Managing state
 7. Clicking a movie item should open a [Radix UI Dialog](https://www.radix-ui.com/docs/primitives/components/dialog) that includes more information from the api about the movie
+8. The layout and content can include anything you want
+
+<img width="1502" alt="Screen Shot 2023-02-02 at 11 12 48 am" src="https://user-images.githubusercontent.com/5527769/216198173-7fd6ac42-ff7a-49d3-9e1c-707c45dafe51.png">
 
 ## Infrastructure
-8. Deploy your app to any service you deem appropriate
+9. Deploy your app to any service you deem appropriate
 
 ## Extra points
 1. Make the list filterable using a Radix UI component E.g.
@@ -32,3 +35,4 @@
 - API error handling should be appropriate
 - The readme should be updated to include any important information for setup and configuration
 - The app should have no console errors in production and development
+- Try to avoid adding third party tooling or libraries unless you can justify their usage
