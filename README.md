@@ -19,7 +19,7 @@
 <img width="1502" alt="Screen Shot 2023-02-02 at 11 12 48 am" src="https://user-images.githubusercontent.com/5527769/216198173-7fd6ac42-ff7a-49d3-9e1c-707c45dafe51.png">
 
 ## Infrastructure
-9. Deploy your app to any service you deem appropriate
+9. Deploy your app to any service you deem appropriate E.g. AWS
 
 ## Extra points
 1. Make the list filterable using a Radix UI component E.g.
