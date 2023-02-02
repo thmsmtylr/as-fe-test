@@ -31,7 +31,7 @@
 ## Notes
 - Use conventional commits
 - You must be able to explain why you chose your deployment service
-- The site should be accessible
+- The site should be accessible E.g. Lighthouse testing
 - API error handling should be appropriate
 - The readme should be updated to include any important information for setup and configuration
 - The app should have no console errors in production and development
