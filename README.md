@@ -21,12 +21,12 @@
 ## Managing state
 8. Clicking a movie item should open a [Radix UI Dialog](https://www.radix-ui.com/docs/primitives/components/dialog) that includes more information from the api about the movie
 
-<img width="284" alt="Screen Shot 2023-02-02 at 10 53 03 am" src="https://user-images.githubusercontent.com/5527769/216194464-6361e132-1c7e-4460-b737-9961bab1044e.png">
+<img width="1502" alt="Screen Shot 2023-02-02 at 11 12 48 am" src="https://user-images.githubusercontent.com/5527769/216198173-7fd6ac42-ff7a-49d3-9e1c-707c45dafe51.png">
 
 9. The layout and content can include anything you want
 10. Make the list sortable using a Radix UI component E.g.
 
-<img width="1502" alt="Screen Shot 2023-02-02 at 11 12 48 am" src="https://user-images.githubusercontent.com/5527769/216198173-7fd6ac42-ff7a-49d3-9e1c-707c45dafe51.png">
+<img width="284" alt="Screen Shot 2023-02-02 at 10 53 03 am" src="https://user-images.githubusercontent.com/5527769/216194464-6361e132-1c7e-4460-b737-9961bab1044e.png">
 
 11. Make the `title` of the movie items searchable
 
