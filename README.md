@@ -4,6 +4,11 @@
 2. Add [Tailwind](https://tailwindcss.com/) and [Radix UI](https://www.radix-ui.com/) as the styling UI strategy
 3. Add `@axe-core/react` for accessibility
 
+## Expectations
+- If there's areas of uncertantity or questiosn please use your own knowlege and experiences to fill in the gaps.
+- The task should be completed in it's entirety
+- Please return the test with a production URL and a link to the git repo
+
 ## API Querying & pagination
 3. Retrieve a list of `100` popular movies from [The Movie DB](https://www.themoviedb.org/) using their [API](https://developers.themoviedb.org/3/getting-started/introduction)
 4. The list of popular movies should be batched in groups of `20`
@@ -16,17 +21,16 @@
 7. Clicking a movie item should open a [Radix UI Dialog](https://www.radix-ui.com/docs/primitives/components/dialog) that includes more information from the api about the movie
 8. The layout and content can include anything you want
 
+<img width="284" alt="Screen Shot 2023-02-02 at 10 53 03 am" src="https://user-images.githubusercontent.com/5527769/216194464-6361e132-1c7e-4460-b737-9961bab1044e.png">
+
+10. Make the list sortable using a Radix UI component E.g.
+
 <img width="1502" alt="Screen Shot 2023-02-02 at 11 12 48 am" src="https://user-images.githubusercontent.com/5527769/216198173-7fd6ac42-ff7a-49d3-9e1c-707c45dafe51.png">
+
+11. Make the `title` of the movie items searchable
 
 ## Infrastructure
 9. Deploy your app to any service you deem appropriate E.g. AWS
-
-## Extra points
-1. Make the list sortable using a Radix UI component E.g.
-
-<img width="284" alt="Screen Shot 2023-02-02 at 10 53 03 am" src="https://user-images.githubusercontent.com/5527769/216194464-6361e132-1c7e-4460-b737-9961bab1044e.png">
-
-2. Make the `title` of the movie items searchable
 
 ## Notes
 - Use conventional commits
